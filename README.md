@@ -9,7 +9,9 @@
 
 
 
-[Walktrough_video link](https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view)
+[Walktrough_video link](https://drive.google.com/file/d/109B0dli1pz2zu5VUMFmCfDYsov-bpwr-/view)
+
+
 
 
 
@@ -27,9 +29,9 @@ SO THAT I don't have to pay a graphic designer
 
 ## Installation
 
-Npm install
-Npm Start 
-Npm test 
+- Npm install
+- Npm Start 
+- Npm test 
 
 ## License
 
