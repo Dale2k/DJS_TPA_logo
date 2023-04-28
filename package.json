@@ -1,0 +1,33 @@
+{
+  "name": "djs_tpa_logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start" :"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dale2k/DJS_TPA_logo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dale2k/DJS_TPA_logo/issues"
+  },
+  "homepage": "https://github.com/Dale2k/DJS_TPA_logo#readme",
+
+"dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+
+}
